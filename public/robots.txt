@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://millennialjetset.github.io/sitemap.xml
