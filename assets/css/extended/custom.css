@@ -1,0 +1,59 @@
+
+.social-icons a svg {
+    margin-left: 10px;
+    height: 20px;
+    width: 20px;
+
+}
+
+.social-icons a {
+    display: inline;
+}
+
+.headerMod, .secondHeader {
+    display: block;
+}
+.headerMod {
+    margin-top: 24px;
+}
+.secondHeader {
+    margin-bottom: 24px;
+}
+.header {
+    display: none;
+}
+
+.logoMod {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.navModMain {
+    line-height: 40px;
+}
+.navModSecondary {
+    line-height: 24px;
+}
+a:hover, .active {
+    color: #FB9FA4
+}
+
+.description:pre {
+    width: 20px;
+    background-color: #FB9FA4;
+}
+.description {
+    margin: 10px 0;
+    padding: 0 20px;
+    background-color: #FB9FA4;
+    line-height: 2;
+    border-radius: 0 50px 50px 0;
+    color: black;
+}
+
+.post-title {
+    text-decoration: underline;
+}
+.entry-cover p {
+    text-align: left;
+}
