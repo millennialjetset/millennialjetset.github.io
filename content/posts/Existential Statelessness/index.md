@@ -13,7 +13,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: true
 searchHidden: false
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: false
 
 cover:
