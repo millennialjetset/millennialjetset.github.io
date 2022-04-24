@@ -9,6 +9,16 @@
       <link>https://millennialjetset.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://millennialjetset.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2022 18:01:41 -0500</lastBuildDate><atom:link href="https://millennialjetset.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>musings</title>
+      <link>https://millennialjetset.github.io/categories/musings/</link>
+      <pubDate>Fri, 22 Apr 2022 18:01:41 -0500</pubDate>
+      
+      <guid>https://millennialjetset.github.io/categories/musings/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

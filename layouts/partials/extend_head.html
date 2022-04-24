@@ -39,9 +39,15 @@
 </script>
 {{- end }}
 
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+
 <header class="headerMod">
     <nav class="nav navModMain">
-        <div class="logo">
+        <div class="logo logoMod">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
@@ -141,7 +147,7 @@
 
 <header class= "secondHeader">
     <nav class="nav navModSecondary">
-        <div class="logo logoMod">
+        <div class="logo">
             <p class = "description">
                 {{- site.Params.description -}}
             </p>

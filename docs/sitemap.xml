@@ -2,20 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://millennialjetset.github.io/posts/helloworld/</loc>
+    <loc>https://millennialjetset.github.io/categories/</loc>
+    <lastmod>2022-04-22T18:01:41-05:00</lastmod>
+  </url><url>
+    <loc>https://millennialjetset.github.io/posts/existential-statelessness/</loc>
     <lastmod>2022-04-22T18:01:41-05:00</lastmod>
   </url><url>
     <loc>https://millennialjetset.github.io/</loc>
     <lastmod>2022-04-22T18:01:41-05:00</lastmod>
   </url><url>
+    <loc>https://millennialjetset.github.io/categories/musings/</loc>
+    <lastmod>2022-04-22T18:01:41-05:00</lastmod>
+  </url><url>
     <loc>https://millennialjetset.github.io/posts/</loc>
     <lastmod>2022-04-22T18:01:41-05:00</lastmod>
   </url><url>
-    <loc>https://millennialjetset.github.io/archive/</loc>
-  </url><url>
-    <loc>https://millennialjetset.github.io/categories/</loc>
-  </url><url>
     <loc>https://millennialjetset.github.io/about/</loc>
+  </url><url>
+    <loc>https://millennialjetset.github.io/archive/</loc>
   </url><url>
     <loc>https://millennialjetset.github.io/search/</loc>
   </url><url>

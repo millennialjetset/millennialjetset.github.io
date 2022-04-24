@@ -14,18 +14,19 @@
     display: block;
 }
 .headerMod {
-    margin-top: 24px;
+    margin-top: 16px;
+    border-bottom: #FB9FA4 solid 4px;
+    border-left: #FB9FA4 solid 24px;
+
 }
 .secondHeader {
     margin-bottom: 24px;
+    border-top: #FB9FA4 solid 4px;
+    padding-left: 24px;
+
 }
 .header {
     display: none;
-}
-
-.logoMod {
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
 }
 
 .navModMain {
@@ -34,21 +35,13 @@
 .navModSecondary {
     line-height: 24px;
 }
-a:hover, .active {
+a:hover, .active, .footer a:hover {
     color: #FB9FA4
-}
-
-.description:pre {
-    width: 20px;
-    background-color: #FB9FA4;
 }
 .description {
     margin: 10px 0;
-    padding: 0 20px;
-    background-color: #FB9FA4;
     line-height: 2;
-    border-radius: 0 50px 50px 0;
-    color: black;
+    font-weight: 400;
 }
 
 .post-title {
@@ -56,4 +49,16 @@ a:hover, .active {
 }
 .entry-cover p {
     text-align: left;
+}
+
+a, p, span, .post-meta {
+    font-family: 'Loral', serif;
+}
+
+h1, h2, h3, h4, h5, h6, .logo a, .description, header a, header a span {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo a {
+    font-weight: 900;
 }
