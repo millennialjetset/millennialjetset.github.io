@@ -17,10 +17,10 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 
 cover:
-    image: millennialjetset.com/posts/existentialplacelessness/concorde.jpg
+    image: concorde.jpg # image path/url
     alt: "Concorde"
     caption: "Photograph by spaceaero2 (Wikipedia); [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)"
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Millennial Jet Set</title>
-    <link>https://millennialjetset.github.io/categories/</link>
+    <link>https://millennialjetset.com/categories/</link>
     <description>Recent content in Categories on Millennial Jet Set</description>
     <image>
-      <url>https://millennialjetset.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://millennialjetset.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://millennialjetset.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://millennialjetset.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 18:01:41 -0500</lastBuildDate><atom:link href="https://millennialjetset.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 18:01:41 -0500</lastBuildDate><atom:link href="https://millennialjetset.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>musings</title>
-      <link>https://millennialjetset.github.io/categories/musings/</link>
+      <link>https://millennialjetset.com/categories/musings/</link>
       <pubDate>Fri, 22 Apr 2022 18:01:41 -0500</pubDate>
       
-      <guid>https://millennialjetset.github.io/categories/musings/</guid>
+      <guid>https://millennialjetset.com/categories/musings/</guid>
       <description></description>
     </item>
     
